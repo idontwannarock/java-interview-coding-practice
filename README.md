@@ -1,5 +1,11 @@
 # Java Interview Coding Practice
 
+## Getting started
+
+You need Java 8+ installed and add all jar files in lib directory as dependencies in your IDE.
+
+And then start from tests.
+
 ## Lance Interview Questions
 
 1. Get the third largest integer within a list of integer
