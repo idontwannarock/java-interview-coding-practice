@@ -1,4 +1,4 @@
-package algorithm.lance.interview;
+package lance;
 
 public class GetMatchingParenthesisIndex {
 

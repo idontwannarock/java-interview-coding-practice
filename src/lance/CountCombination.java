@@ -1,4 +1,4 @@
-package algorithm.lance.interview;
+package lance;
 
 import java.util.Arrays;
 import java.util.LinkedList;

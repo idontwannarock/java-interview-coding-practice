@@ -1,1 +1,1 @@
-java-tests
+java-interview-coding-practice
