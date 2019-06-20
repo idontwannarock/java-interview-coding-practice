@@ -13,5 +13,5 @@ public class StringReverser {
         return new String(chars);
     }
 
-    // note: Java standard library class StringBuilder has reverse() method to more properly reverse any String.
+    // note: Java standard library class StringBuilder has reverse() method to more properly reverse any String, even in UTF-16.
 }
