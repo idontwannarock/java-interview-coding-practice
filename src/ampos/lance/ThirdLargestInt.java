@@ -1,4 +1,4 @@
-package lance;
+package ampos.lance;
 
 import java.util.Comparator;
 import java.util.List;

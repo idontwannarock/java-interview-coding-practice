@@ -1,4 +1,4 @@
-package lance;
+package ampos.lance;
 
 public class GetMatchingParenthesisIndex {
 
